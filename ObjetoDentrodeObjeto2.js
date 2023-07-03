@@ -15,13 +15,17 @@ const Objeto = {
 
 }
 
+
 //Ingresa al valor de peso del objeto creado
+console.log(Objeto.Descripcion.peso)
 
 
 //Ingresa al valor de precioreal del objeto creado
+console.log(Objeto.DescripcionClasificada.precioreal)
 
 
 //Haz un destructuring de los objetos anidados (Accede a peso y precioreal)
-
-
+const{Objetoto,Descripcion,Descripcion:{medida,medida:{peso: {peso} } } } = Objeto;
+const{Objetobjeto,DescripcionClasificada,DescripcionClasificada:{precioreal:{precioreal}}} = Objeto;
 // Congela el objeto para que sea inmodificable
+console.log(Object.isFrozen(Objeto));
