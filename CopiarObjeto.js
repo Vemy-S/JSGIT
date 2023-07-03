@@ -15,7 +15,13 @@ const descrip ={
     
 }
 
-(...verdura,...descrip)
+
+
+
+// Guarda estos 2 objetos que copiaste en un nuevo objeto.
+(...verdura, ...descrip)
+
+
 
 
 

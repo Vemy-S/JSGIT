@@ -1,5 +1,4 @@
 // SECCIÓN 7 (Curso Udemy)
-// Arreglar lo que se pidió
 
 // Crea un OBJETO con 5 propiedades
 const producto ={
@@ -24,7 +23,7 @@ delete producto.empresa
 
 
 // Haz un Destructuring de 4 propiedades de tu objeto.
- const{nombre,Precio,disponible,color}= producto;
+ const{nombre, Precio, disponible, color}= producto;
 
 
  
