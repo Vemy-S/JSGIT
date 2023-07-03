@@ -21,13 +21,13 @@ const object = 'guitarra';
 
 // Crea Variable tipo STRING y Númerico
 const dulce = "caramelo";
-const dulce2 = String('caramelo leche');
+
 
 
 
 
 const numero8 = 40;
-const numero9 = "40";
+const numero9 = 40;
 const numero10 = 'dos';
 const numero11 = 40.2;
 

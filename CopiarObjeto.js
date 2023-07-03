@@ -15,7 +15,11 @@ const descrip ={
     
 }
 
-(...verdura,...descrip)
+const dato={
+    ...verdura,
+    ...descrip
+}
+
 
 
 
