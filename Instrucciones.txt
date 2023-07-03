@@ -1,0 +1,22 @@
+Orden
+
+1.-MostrarEnPantalla
+2.-Variables
+3.-Operaciones
+4.-Mayus-Minus
+5.-Menor-MayorQUE
+6.-Incrementos-Decrementos
+7.-Concatenar
+8.-Comparadores
+9.-Booleans
+10.-Objetos.js
+11.-ObjetosEjercicios
+12.-ObjetoDentrodeObjeto
+13.-ObjetoDentrodeObjeto2
+14.-CopiarObjeto
+15.-Funciones
+16.-Preguntas
+
+
+(Deja comentarios donde creas necesario)
+(Trabaja en una rama creada por ti y después haces merge a la main y das push)

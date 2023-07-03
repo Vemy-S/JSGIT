@@ -1,0 +1,23 @@
+(Explica todo)
+
+¿Diferencia entre Let y Const?
+R:
+
+¿Cuales son los operadores lógicos? (Google y explica con tus palabras)
+R:
+
+¿Que hace el destructuring?
+R:
+
+¿Que hace el spread operator?
+R:
+
+¿Que hace la concatenación?
+R:
+
+¿Para que es el incrementar y decrementar?
+R:
+
+BONUS
+Explica cosas que creas necesarias
+R:
