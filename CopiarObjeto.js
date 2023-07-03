@@ -5,39 +5,23 @@
 const verdura ={
     nomb: 'pepino',
     color: 'verde',
+    prec: 2000
 }
 
 const descrip ={
     peso: 'liviano',
     medida: 'mediano',
-
+    textura: 'duro'
     
 }
 
-const dato ={
-    descripcion: 'saludable'
-}
+(...verdura,...descrip)
 
 
 
-const fruta={
-    fruits: 'naranja',
-    colors: 'naranjo'
-}
 
-const dts={
-    desc: 'vitamina c'
-}
 
-const loqsea={
-    dats: 'bueno para el desayuno'
-}
 
-console.log(verdura,descrip)
-
-console.log(fruta,descrip)
-
-const resultado = Objects.assign(verdura,descrip,fruta,dts)
 
 
 

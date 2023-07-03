@@ -6,14 +6,14 @@ R: la diferencia es que let se puede crear variables que si se pueden cambiar
 
 
 ¿Cuales son los operadores lógicos? (Google y explica con tus palabras)
-R: 
+R: el AND y OR
 
 ¿Que hace el destructuring?
-R: 
+R: sacar de una estructura
 
 
 ¿Que hace el spread operator?
-R: 
+R: simplifica lo que toma de un valor es una estructura de datos.
 
 ¿Que hace la concatenación?
 R: une una o más cadenas de texto en una sola

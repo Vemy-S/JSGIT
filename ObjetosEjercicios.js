@@ -6,35 +6,8 @@ const producto ={
     nombre: 'iphone',
     Precio: 400,
     disponible: true,
-    color: morado,
-    empresa: Entel,
-
-    informacion : {
-        
-        descripcion:{
-        Cámara: '12MP',
-        Tamaño: 6,
-        },
-
-        fabricacion: {
-          pais: 'China',
-        },
-
-        otro: {
-         incluye: 'cargador alt',
-        },
-
-        adicional: {
-            info: 'producto testeado'
-        },
-
-        clasificado: {
-            estrellas: 4
-        }
-
-    
-
-    }
+    color: 'morado',
+    empresa: 'Entel',
 }
 
 // Accede a 3 valores de tu objeto
@@ -51,7 +24,7 @@ delete producto.empresa
 
 
 // Haz un Destructuring de 4 propiedades de tu objeto.
- const {nombre, informacion, informacion: {descripcion, descripcion : {Cámara, Cámara : { } } } } = producto;
+ const{nombre,Precio,disponible,color}= producto;
 
 
  

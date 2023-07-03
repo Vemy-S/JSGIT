@@ -27,7 +27,8 @@ console.log(Objeto.DescripcionClasificada.precioreal)
 
 
 //Haz un destructuring de los objetos anidados (Accede a peso y precioreal)
-
+const{Descripcion:{peso}} = Objeto;
+const{DescripcionClasificada:{precioreal}} = Objeto;
 
 // const{Descripcion,Descripcion:{medida,medida:{peso: {peso} } } } = Objeto;
 

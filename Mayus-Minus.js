@@ -2,10 +2,10 @@
 // Arreglar a lo que se pidió
 
 const Minuscula = "ISIDORADANAE504@GMAIL.COM"
-console.log(email.tolowerCase());
+console.log(Minuscula.tolowerCase());
 
 const Mayuscula = "isidoradanae504@gmail.com"
-console.log(email.consoletoUpperCase());
+console.log(Mayuscula.consoletoUpperCase());
 
 //Convierte el Texto que esta en Mayuscula a Minuscula y viceversa
 //Ayuda : Usa Metodos

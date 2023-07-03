@@ -23,11 +23,6 @@ const object = 'guitarra';
 const dulce = "caramelo";
 const dulce2 = String('caramelo leche');
 
-const dulce3 = new String('caramela extra dulce');
-
-console.log(dulce);
-console.log(dulce2);
-console.log(dulce3);
 
 
 
@@ -36,10 +31,4 @@ const numero9 = "40";
 const numero10 = 'dos';
 const numero11 = 40.2;
 
-console.log(numero8);
-console.log(Number.parseInt(numero8));
-console.log(Number.parseFloat(numero9));
-console.log(Number.parseInt(numero10));
 
-console.log(Number.isInteger(numero11)); 
-console.log(Number.isInteger(numero10));

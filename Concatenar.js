@@ -6,10 +6,8 @@ const ayuda = "tengo"
 
 const edad = "21 años"
 
-console.log (ayuda ,$(ayuda))
-console.log (edad ,$(edad))
 
-console.log (`Hola soy Isidora y ayuda ${ayuda} edad ${edad}`)
+console.log (`Hola soy Isidora y ${ayuda}  ${edad}`)
 
 
 //EJ : Hola soy isidora y tengo 21 años.
