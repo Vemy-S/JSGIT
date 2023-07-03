@@ -4,28 +4,25 @@
 R: la diferencia es que let se puede crear variables que si se pueden cambiar 
         y const declara una variable y no se puede cambiar.
 
-¿Cuales son los operadores lógicos? (Google y explica con tus palabras)
-R: hay 3 operadores lógicos que permiten formar proposiciones es decir
-que esta compuesto por la conjunción, la disyunción y la negación, además
-de las equivalencias proposicionales sobresalen la condicional , 
-la implicación y la bicondicional.
 
+¿Cuales son los operadores lógicos? (Google y explica con tus palabras)
+R: 
 
 ¿Que hace el destructuring?
-R: extrae propiedades de un objeto, items de un arreglo de 
-una manera  sencilla y de una sola vez.
+R: 
+
 
 ¿Que hace el spread operator?
-R: distribuye los elementos de un arreglo u objeto , para 
-asignarlos a alguna variable, constante y función.
+R: 
 
 ¿Que hace la concatenación?
-R: une dos o más cadenas de texto en una sola
+R: une una o más cadenas de texto en una sola
 
 ¿Para que es el incrementar y decrementar?
 R: incrementar es aumentar el valor de su operando , y decrementar disminuye el valor
 
+
 BONUS
 Explica cosas que creas necesarias
-R: Los arrays en JavaScript se declaran como cualquier otra variable, escribiendo
-var seguido del nombre del array.
+R: 
+

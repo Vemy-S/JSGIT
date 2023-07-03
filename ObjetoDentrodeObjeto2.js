@@ -1,5 +1,7 @@
 // Sección 7 (Curso Udemy) (Clase 39 - 40 - 43)
 
+//Hacer lo que se pidió
+
 const Objeto = {
     nombre : "Objeto clasificado",
     precio : "Incalculable",
@@ -25,7 +27,16 @@ console.log(Objeto.DescripcionClasificada.precioreal)
 
 
 //Haz un destructuring de los objetos anidados (Accede a peso y precioreal)
-const{Objetoto,Descripcion,Descripcion:{medida,medida:{peso: {peso} } } } = Objeto;
-const{Objetobjeto,DescripcionClasificada,DescripcionClasificada:{precioreal:{precioreal}}} = Objeto;
+
+
+// const{Descripcion,Descripcion:{medida,medida:{peso: {peso} } } } = Objeto;
+
+
+
+
+//const{Objetobjeto, DescripcionClasificada, DescripcionClasificada:{precioreal:{precioreal}}} = Objeto;
+
+
+
 // Congela el objeto para que sea inmodificable
 console.log(Object.isFrozen(Objeto));

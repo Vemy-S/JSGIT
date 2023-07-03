@@ -1,5 +1,6 @@
 // Concatena las variables que te daré, en una frase.
 //Debes Saludar, decir tu nombre y concatenar tu edad.
+//Arreglar a lo que se pidió
 
 const ayuda = "tengo"
 

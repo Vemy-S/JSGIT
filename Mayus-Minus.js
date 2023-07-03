@@ -1,4 +1,5 @@
 //Convierte en Minuscula y Mayuscula.
+// Arreglar a lo que se pidió
 
 const Minuscula = "ISIDORADANAE504@GMAIL.COM"
 console.log(email.tolowerCase());
@@ -8,5 +9,4 @@ console.log(email.consoletoUpperCase());
 
 //Convierte el Texto que esta en Mayuscula a Minuscula y viceversa
 //Ayuda : Usa Metodos
-
 

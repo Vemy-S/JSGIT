@@ -1,5 +1,6 @@
 // Sección 7 (Curso Udemy) (Clase 44)
 // Crea 2 objetos con 3 propiedades cada uno
+//Arreglar a lo que se pidió
 
 const verdura ={
     nomb: 'pepino',
@@ -37,10 +38,6 @@ console.log(verdura,descrip)
 console.log(fruta,descrip)
 
 const resultado = Objects.assign(verdura,descrip,fruta,dts)
-
-
-
-
 
 
 

@@ -6,10 +6,12 @@ const vege1 ={
     color: 'verde',
     disponible: true,
     informacion: {
+
         medida:{
             peso: 'liviano',
             medidas: '5cm'
         },
+
         fabricacion:{
             pais: 'china'
         }
@@ -33,7 +35,7 @@ const tienda ={
         medid: '1.2 plaza'
     },
 
-        fabricacion:{
-            pais: 'alemania'
-        }
+    fabricacion:{
+        pais: 'alemania'
     }
+}
