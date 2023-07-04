@@ -15,10 +15,19 @@ const descrip ={
     
 }
 
+<<<<<<< HEAD
 const dato={
     ...verdura,
     ...descrip
 }
+=======
+
+
+
+// Guarda estos 2 objetos que copiaste en un nuevo objeto.
+(...verdura, ...descrip)
+
+>>>>>>> 1e6b414a800637df7855e168602d04da643403ba
 
 
 

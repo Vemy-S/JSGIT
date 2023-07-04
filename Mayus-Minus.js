@@ -1,9 +1,14 @@
 //Convierte en Minuscula y Mayuscula.
-// Arreglar a lo que se pidió
 
+//Arreglar lo que se pidió
+
+
+// Corregir el metodo, mal escrito
 const Minuscula = "ISIDORADANAE504@GMAIL.COM"
 console.log(Minuscula.toLowerCase());
 
+
+//Corregir este de abajo, mal escrito
 const Mayuscula = "isidoradanae504@gmail.com"
 console.log(Mayuscula.toUpperCase());
 
