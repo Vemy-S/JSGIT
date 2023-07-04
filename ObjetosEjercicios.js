@@ -16,7 +16,7 @@
 
  //Agrega nueva propiedad a tu objeto
  producto.descripcion = 'este producto es reacondicionado'
- producto.generacion = '4G'
+
  //Elimina una propiedad de tu objeto
  delete producto.empresa
 
