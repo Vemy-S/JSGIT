@@ -3,7 +3,11 @@
 // Utiliza los metodos .pop .shift
 const Array = ["Enero", "Lunes" , "Martes", "Miercoles" , "Abril"]
 
+Enero.shift();
+console.table(Enero);
 
+Abril.pop();
+console.table(Abril);
 
 
 //Ejercicio
@@ -29,6 +33,9 @@ const Sarten = {
 
 const carritodecompras = [...Tablet , ...Celular, ...Sarten]
 
+
+Celular.splice(0,3)
+console.table(Celular);
 
 
 

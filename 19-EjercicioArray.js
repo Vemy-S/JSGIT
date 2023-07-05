@@ -23,6 +23,14 @@ const Sarten = {
 
 const carrodecompras = []
 
+const horno = {
+     marca: 'thomas',
+     modelo: 'industrial',
+}
+
+
+Sarten.push('modelo');
+horno.push('precio')
 
 
 
