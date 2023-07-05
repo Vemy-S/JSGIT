@@ -21,14 +21,19 @@ const Sarten = {
     descripción: "Útil para freir huevo",
 }
 
-const carrodecompras = []
 
 const horno = {
      marca: 'thomas',
      modelo: 'industrial',
 }
 
+const carrodecompras = []
 
+
+
+// Entiendelo bien, asi no se agregan los productos.
+//nisiquiera interactuaste con el array carrodecompras que te pedí que agregues los productos.
+//Mas encima intentaste agregar 2 y pedí 4.
 Sarten.push('modelo');
 horno.push('precio')
 

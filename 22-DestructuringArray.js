@@ -3,6 +3,8 @@
 
 //Crea un Array y extrae la tercera posición mostrandolo en pantalla.
 
+
+// ESTO NISIQUIERA ES UN ARRAY, ES UN O B J E T O,
 const fruta = {
     nomb: 'Piña',
     tamaño: 'Mediano',
@@ -12,6 +14,7 @@ const fruta = {
 console.log("Amarillo")
 
 //destructuring
+//ESTO nisiquiera es un destructuring de array, es de OBJETO ??????? 
 const { tamaño } = fruta;
 console.log( tamaño );
 
@@ -22,15 +25,20 @@ console.log( tamaño );
 
 const Arraysito = [1, 2, 3, 4, 5]
 
+// que es esto ? nisiquiera pedi algo como esto
 const[segundo] = Arraysito;
 
 console.log(segundo);
 
+// Esto tampoco lo pedi.
 const Arraysito1 = [...primero];
 
 // igualmente extrae la posición 3 del array y los ultimos 2 elementos guardalos dentro del destructuring
 // Utilizando spread operator.
 
+//DIJE UTILIZANDO SPREAD OPERATOR.
 console.log(Arraysito[3])
 
+
+//Tomaste la posición 1 xd
 const [cuarto, ...quinto] = Arraysito;

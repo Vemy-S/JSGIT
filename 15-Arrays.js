@@ -17,6 +17,7 @@ const compras = ["lechuga", "Apio", "Camarones"];
 const num = [21, 22, 40, "tomate", "Cuchufli"];
 
 //Crea un Array con múltiples elementos (Númericos , string , Booleans, null, undefined)
+// Acá No veo ningún booleans, ni un undefined, ni un null.
 const cosas = [49, 70, "lapiz", 'true', 'false', 'let pop;', 'let objeto5'];
 
 //Crea un Array el cúal contenga un Array dentro y un Objeto dentro.

@@ -1,7 +1,7 @@
 // Sección 8 (Udemy 51-52)
 //---------------------------------------------------------
 // Agrega los dias que faltan a este Array de forma correcta.(No utilices Metodos)
-const Semana = ["Lunes", "Martes", "Miércoles", "Jueves",]
+const Semana = ["Lunes", "Martes", "Miércoles", "Jueves"]
 Semana[4] = 'Viernes'
 Semana[5] = 'Sabado'
 Semana[6] = 'Domingo'
@@ -19,4 +19,6 @@ const Array = ["Sopaipilla", "Vienesa", "Casa" , "Trampolín"]
  
 Array.push('Completo');
 
+
+// linea 4 esta mala, no es string, practicamente no añadiste nada.
 Array.unshift(Hola);
