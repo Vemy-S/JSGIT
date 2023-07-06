@@ -5,11 +5,11 @@ const Array = ["Enero", "Lunes" , "Martes", "Miercoles" , "Abril"]
 
 
 //En la linea 8 estas diciendome que borras del Array Enero, que no existe, nada? No pusiste q borras algo.
-Enero.shift();
+Array.shift("Enero");
 
 
 //Lo mismo que en la linea 8, el Array Abril no existe...
-Abril.pop();
+Array.pop("Abril");
 
 
 

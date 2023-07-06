@@ -12,7 +12,7 @@ console.log(Compra[4][1]);
 //1.- ingreses al número 1 del array
        Compra[0]
 //2.- ingreses al nombre isidora del array.
-       Compra[3] = "Isidora"
+       Compra[3] 
 //3.- ingreses al nombre Jeremy del Sub-Array
        Compra[4][2]
 //4.- ingreses al número 4 del Sub-Array
