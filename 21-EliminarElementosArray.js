@@ -6,11 +6,11 @@ const Array = ["Enero", "Lunes" , "Martes", "Miercoles" , "Abril"]
 
 //En la linea 8 estas diciendome que borras del Array Enero, que no existe, nada? No pusiste q borras algo.
 Enero.shift();
-console.table(Enero);
+
 
 //Lo mismo que en la linea 8, el Array Abril no existe...
 Abril.pop();
-console.table(Abril);
+
 
 
 //Ejercicio
@@ -36,12 +36,14 @@ const Sarten = {
 
 const carritodecompras = [...Tablet , ...Celular, ...Sarten]
 
+carritodecompras.splice(1,1);
+
 
 //Esta malo, nisiquiera existe el array Celular
-Celular.splice(0,3)
+
 //Como vas a mostrar Celular, nisiquiera lo borraste bien y practicamente si lo intentas borrar, no debería existir
 //No puedes mostrar algo que no existe, no es obvio?.
-console.table(Celular);
+
 
 
 

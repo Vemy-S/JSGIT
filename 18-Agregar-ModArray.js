@@ -2,14 +2,14 @@
 //---------------------------------------------------------
 // Agrega los dias que faltan a este Array de forma correcta.(No utilices Metodos)
 const Semana = ["Lunes", "Martes", "Miércoles", "Jueves"]
-Semana[4] = 'Viernes'
-Semana[5] = 'Sabado'
-Semana[6] = 'Domingo'
+Semana[4] = "Viernes";
+Semana[5] = "Sabado";
+Semana[6] = "Domingo";
 
 
 //Cambia el elemento erróneo de la semana por el correcto.(No utilices Metodos)
 const Semanita = ["Lunes", "Miercoles" , "Miercoles" , "Jueves", "Viernes" ,"Sabado" , "Domingo"]
-Semana[1] = 'Martes';
+Semana[1] = "Martes";
 
 
 //---------------------------------------------------------
@@ -20,5 +20,5 @@ const Array = ["Sopaipilla", "Vienesa", "Casa" , "Trampolín"]
 Array.push('Completo');
 
 
-// linea 4 esta mala, no es string, practicamente no añadiste nada.
-Array.unshift(Hola);
+
+Array.unshift("Hola");

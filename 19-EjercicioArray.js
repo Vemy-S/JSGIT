@@ -27,15 +27,25 @@ const horno = {
      modelo: 'industrial',
 }
 
-const carrodecompras = []
+const carrodecompras = [];
+
+carrodecompras.push(Celular);
+carrodecompras.push(Tablet);
+carrodecompras.push(Sarten);
+carrodecompras.push(horno);
+
+const calefactor = {
+    nombre:'atlantic',
+    precio:400,
+
+}
 
 
 
 // Entiendelo bien, asi no se agregan los productos.
 //nisiquiera interactuaste con el array carrodecompras que te pedí que agregues los productos.
 //Mas encima intentaste agregar 2 y pedí 4.
-Sarten.push('modelo');
-horno.push('precio')
+
 
 
 
