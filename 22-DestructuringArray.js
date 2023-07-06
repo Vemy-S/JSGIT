@@ -10,7 +10,8 @@ frutas[3]
 
 
 //destructuring
-const { Banana } = frutas;
+const [, , posicion] = frutas
+console.log(posicion) // Durazno
 
 
 
@@ -33,7 +34,6 @@ const[ , ,...dos] = Arraysito;
 // igualmente extrae la posición 3 del array y los ultimos 2 elementos guardalos dentro del destructuring
 // Utilizando spread operator.
 
-Arraysito[2]
 
 const [, , ,...tres] = Arraysito;
 const [, , , ,...cuatro] = Arraysito;
