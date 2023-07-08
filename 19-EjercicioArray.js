@@ -27,6 +27,13 @@ const horno = {
      modelo: 'industrial',
 }
 
+const calefactor = {
+    nombre:'atlantic',
+    precio:400,
+
+}
+
+
 const carrodecompras = [];
 
 carrodecompras.push(Celular);
@@ -34,11 +41,6 @@ carrodecompras.push(Tablet);
 carrodecompras.push(Sarten);
 carrodecompras.push(horno);
 
-const calefactor = {
-    nombre:'atlantic',
-    precio:400,
-
-}
 
 
 

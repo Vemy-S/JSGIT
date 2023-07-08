@@ -23,3 +23,7 @@ const cosas = [49, 70, "lapiz",true , false, null, undefined];
 //Crea un Array el cúal contenga un Array dentro y un Objeto dentro.
  
 const object = ['pure', [1,4,6]]
+
+const Lista = [ [2, 3, 4] ,  {nombre: "Jeremy", edad: "22"} ]
+
+

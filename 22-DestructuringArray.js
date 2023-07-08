@@ -19,14 +19,7 @@ console.log(posicion) // Durazno
 
 //Destructuring + Spread Operator
 
-const Arraysito = [1, 2, 3, 4, 5]
-
-const [,,] = Arraysito;
-const[ , ,...dos] = Arraysito;
-
-
-
-
+const Arraysito = [1, 2, 3, 4, 5, 4]
 
 
 
@@ -34,11 +27,14 @@ const[ , ,...dos] = Arraysito;
 // igualmente extrae la posición 3 del array y los ultimos 2 elementos guardalos dentro del destructuring
 // Utilizando spread operator.
 
+const  [momo, charlie, luna, buty , ...Ultimo] = Arraysito
 
-const [, , ,...tres] = Arraysito;
-const [, , , ,...cuatro] = Arraysito;
+console.log(buty) // 4
+console.log(Ultimo) // 5 - 4
 
+const [ , , , algo, ...ultimo ] = Arraysito
 
+console.log(algo)
 
 
 //Tomaste la posición 1 xd
