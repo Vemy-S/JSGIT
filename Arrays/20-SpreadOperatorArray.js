@@ -6,7 +6,7 @@ const Array1 = [1, 2, 3]
 const Array2 = [4, 4, 5]
 
 //Borra eso y hacelo en 1 linea
-Array3 = [...Array1, ...Array2]
+const Array3 = [...Array1, ...Array2]
 
 
 

@@ -9,6 +9,11 @@ for(let i = 0; i < Estudios.length; i++) {
     console.log(Estudios[i]);
 }
 
+Estudios.forEach(function(lenguajes){
+    console.log(`${lenguajes}`)
+
+})
+
 
 
 

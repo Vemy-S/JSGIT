@@ -30,6 +30,7 @@ console.log(Objeto.DescripcionClasificada.precioreal)
 const{Descripcion:{peso}} = Objeto;
 const{DescripcionClasificada:{precioreal}} = Objeto;
 
+
 // const{Descripcion,Descripcion:{medida,medida:{peso: {peso} } } } = Objeto;
 
 

@@ -36,10 +36,12 @@ const calefactor = {
 
 const carrodecompras = [];
 
+
 carrodecompras.push(Celular);
 carrodecompras.push(Tablet);
 carrodecompras.push(Sarten);
 carrodecompras.push(horno);
+
 
 
 
