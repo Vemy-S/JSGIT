@@ -1,0 +1,1 @@
+//Crea un objeto y agregale 4 funciones dentro.
